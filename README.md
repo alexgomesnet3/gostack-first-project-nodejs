@@ -1,4 +1,4 @@
-# My First Project with Node.js + TypeScript - GoStack Rocketseat
+## My First Project with Node.js + TypeScript - GoStack Rocketseat
 
 Studying project structure and patterns with Node.js, Typescript and Express - Rocketseat GoStack
 
