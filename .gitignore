@@ -117,3 +117,6 @@ dist
 
 # Mac Files
 .DS_Store
+
+# TypeORM config archives
+ormconfig.json
