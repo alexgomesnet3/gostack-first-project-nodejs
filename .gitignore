@@ -120,3 +120,7 @@ dist
 
 # TypeORM config archives
 ormconfig.json
+
+# Config Files JWT
+*auth.ts
+auth.ts
