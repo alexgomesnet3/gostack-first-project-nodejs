@@ -124,3 +124,8 @@ ormconfig.json
 # Config Files JWT
 *auth.ts
 auth.ts
+
+# Pasta de arquivos Temporários - TMP
+tmp/*
+!tmp/.gitkeep
+temp/
